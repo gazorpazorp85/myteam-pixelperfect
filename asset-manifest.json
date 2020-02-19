@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/myteam-pixelperfect/static/css/main.b537cb0b.chunk.css",
-    "main.js": "/myteam-pixelperfect/static/js/main.e96f5da5.chunk.js",
-    "main.js.map": "/myteam-pixelperfect/static/js/main.e96f5da5.chunk.js.map",
+    "main.css": "/myteam-pixelperfect/static/css/main.e90f134b.chunk.css",
+    "main.js": "/myteam-pixelperfect/static/js/main.d834e968.chunk.js",
+    "main.js.map": "/myteam-pixelperfect/static/js/main.d834e968.chunk.js.map",
     "runtime-main.js": "/myteam-pixelperfect/static/js/runtime-main.6e3c862e.js",
     "runtime-main.js.map": "/myteam-pixelperfect/static/js/runtime-main.6e3c862e.js.map",
-    "static/js/2.0d58fffd.chunk.js": "/myteam-pixelperfect/static/js/2.0d58fffd.chunk.js",
-    "static/js/2.0d58fffd.chunk.js.map": "/myteam-pixelperfect/static/js/2.0d58fffd.chunk.js.map",
+    "static/js/2.01f854fe.chunk.js": "/myteam-pixelperfect/static/js/2.01f854fe.chunk.js",
+    "static/js/2.01f854fe.chunk.js.map": "/myteam-pixelperfect/static/js/2.01f854fe.chunk.js.map",
     "index.html": "/myteam-pixelperfect/index.html",
-    "precache-manifest.951c00a16b8de266004753828797c1df.js": "/myteam-pixelperfect/precache-manifest.951c00a16b8de266004753828797c1df.js",
+    "precache-manifest.d21d1e1a479b9d908d27c5f4c39112ee.js": "/myteam-pixelperfect/precache-manifest.d21d1e1a479b9d908d27c5f4c39112ee.js",
     "service-worker.js": "/myteam-pixelperfect/service-worker.js",
-    "static/css/main.b537cb0b.chunk.css.map": "/myteam-pixelperfect/static/css/main.b537cb0b.chunk.css.map",
-    "static/js/2.0d58fffd.chunk.js.LICENSE.txt": "/myteam-pixelperfect/static/js/2.0d58fffd.chunk.js.LICENSE.txt",
+    "static/css/main.e90f134b.chunk.css.map": "/myteam-pixelperfect/static/css/main.e90f134b.chunk.css.map",
+    "static/js/2.01f854fe.chunk.js.LICENSE.txt": "/myteam-pixelperfect/static/js/2.01f854fe.chunk.js.LICENSE.txt",
     "static/media/global.scss": "/myteam-pixelperfect/static/media/Livvic-SemiBold.fe84dbc6.ttf",
     "static/media/icon-hamburger.svg": "/myteam-pixelperfect/static/media/icon-hamburger.df4410ae.svg",
     "static/media/logo.svg": "/myteam-pixelperfect/static/media/logo.22c2459e.svg",
@@ -20,8 +20,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.6e3c862e.js",
-    "static/js/2.0d58fffd.chunk.js",
-    "static/css/main.b537cb0b.chunk.css",
-    "static/js/main.e96f5da5.chunk.js"
+    "static/js/2.01f854fe.chunk.js",
+    "static/css/main.e90f134b.chunk.css",
+    "static/js/main.d834e968.chunk.js"
   ]
 }
