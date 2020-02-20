@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "57c204094423ca5cf68a931b6bfd2de0",
+    "revision": "70ea4dd2887f1e8a7408e5ae2b3a0028",
     "url": "/myteam-pixelperfect/index.html"
   },
   {
-    "revision": "c92baac1cebdf07aa8eb",
-    "url": "/myteam-pixelperfect/static/css/main.e90f134b.chunk.css"
+    "revision": "713580ae5a5568c7c9b3",
+    "url": "/myteam-pixelperfect/static/css/main.571ef2d4.chunk.css"
   },
   {
-    "revision": "2d251f8a6e512fbcc25f",
-    "url": "/myteam-pixelperfect/static/js/2.01f854fe.chunk.js"
+    "revision": "1abfbc3544d8c8632e59",
+    "url": "/myteam-pixelperfect/static/js/2.4f3e74e7.chunk.js"
   },
   {
     "revision": "928d7b5eb39d16fe9a880722c974b51e",
-    "url": "/myteam-pixelperfect/static/js/2.01f854fe.chunk.js.LICENSE.txt"
+    "url": "/myteam-pixelperfect/static/js/2.4f3e74e7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c92baac1cebdf07aa8eb",
-    "url": "/myteam-pixelperfect/static/js/main.d834e968.chunk.js"
+    "revision": "713580ae5a5568c7c9b3",
+    "url": "/myteam-pixelperfect/static/js/main.4a8d4f23.chunk.js"
   },
   {
     "revision": "0d33193dc7b4eed227fd",
@@ -40,8 +40,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/myteam-pixelperfect/static/media/Livvic-SemiBold.fe84dbc6.ttf"
   },
   {
+    "revision": "7febcff9f143b83553d544fc04fc5b09",
+    "url": "/myteam-pixelperfect/static/media/icon-facebook.7febcff9.svg"
+  },
+  {
     "revision": "df4410aead66f0adfa80154f254dc562",
     "url": "/myteam-pixelperfect/static/media/icon-hamburger.df4410ae.svg"
+  },
+  {
+    "revision": "c557c3d4e80b5eda1ae120c8c2257e26",
+    "url": "/myteam-pixelperfect/static/media/icon-pinterest.c557c3d4.svg"
+  },
+  {
+    "revision": "cb4fea0b4771a5dfc70f787d5e01c91e",
+    "url": "/myteam-pixelperfect/static/media/icon-twitter.cb4fea0b.svg"
   },
   {
     "revision": "22c2459ee9b2f81c568b15fdfa3e84bf",
