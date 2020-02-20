@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "70a1df81f785a326c31f30315b30fe26",
+    "revision": "d52c574e8968f73bc5fb99b66c03811d",
     "url": "/myteam-pixelperfect/index.html"
   },
   {
-    "revision": "85eb58d9844b12cb0d14",
-    "url": "/myteam-pixelperfect/static/css/main.12bb678e.chunk.css"
+    "revision": "d6e7542993a6e2fa508c",
+    "url": "/myteam-pixelperfect/static/css/main.57f3494e.chunk.css"
   },
   {
     "revision": "145cb84abe57432a6e3f",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/myteam-pixelperfect/static/js/2.33e7be5a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "85eb58d9844b12cb0d14",
+    "revision": "d6e7542993a6e2fa508c",
     "url": "/myteam-pixelperfect/static/js/main.1775f998.chunk.js"
   },
   {
