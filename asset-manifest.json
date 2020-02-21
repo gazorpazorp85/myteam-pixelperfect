@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/myteam-pixelperfect/static/css/main.0c3070c1.chunk.css",
+    "main.css": "/myteam-pixelperfect/static/css/main.0d44b49a.chunk.css",
     "main.js": "/myteam-pixelperfect/static/js/main.8fb8fc6a.chunk.js",
     "main.js.map": "/myteam-pixelperfect/static/js/main.8fb8fc6a.chunk.js.map",
     "runtime-main.js": "/myteam-pixelperfect/static/js/runtime-main.6e3c862e.js",
@@ -8,9 +8,9 @@
     "static/js/2.33e7be5a.chunk.js": "/myteam-pixelperfect/static/js/2.33e7be5a.chunk.js",
     "static/js/2.33e7be5a.chunk.js.map": "/myteam-pixelperfect/static/js/2.33e7be5a.chunk.js.map",
     "index.html": "/myteam-pixelperfect/index.html",
-    "precache-manifest.a8a242e65b3127a8b7e38582de7e5817.js": "/myteam-pixelperfect/precache-manifest.a8a242e65b3127a8b7e38582de7e5817.js",
+    "precache-manifest.0f249d57673b7ab3891b11ab49abea2d.js": "/myteam-pixelperfect/precache-manifest.0f249d57673b7ab3891b11ab49abea2d.js",
     "service-worker.js": "/myteam-pixelperfect/service-worker.js",
-    "static/css/main.0c3070c1.chunk.css.map": "/myteam-pixelperfect/static/css/main.0c3070c1.chunk.css.map",
+    "static/css/main.0d44b49a.chunk.css.map": "/myteam-pixelperfect/static/css/main.0d44b49a.chunk.css.map",
     "static/js/2.33e7be5a.chunk.js.LICENSE.txt": "/myteam-pixelperfect/static/js/2.33e7be5a.chunk.js.LICENSE.txt",
     "static/media/global.scss": "/myteam-pixelperfect/static/media/Livvic-SemiBold.fe84dbc6.ttf",
     "static/media/icon-facebook.svg": "/myteam-pixelperfect/static/media/icon-facebook.7febcff9.svg",
@@ -24,7 +24,7 @@
   "entrypoints": [
     "static/js/runtime-main.6e3c862e.js",
     "static/js/2.33e7be5a.chunk.js",
-    "static/css/main.0c3070c1.chunk.css",
+    "static/css/main.0d44b49a.chunk.css",
     "static/js/main.8fb8fc6a.chunk.js"
   ]
 }
