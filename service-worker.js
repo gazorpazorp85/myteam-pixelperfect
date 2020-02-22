@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/myteam-pixelperfect/precache-manifest.6f1d59b05d0ef79fbe3030ef7aa8fc96.js"
+  "/myteam-pixelperfect/precache-manifest.081e0bda114bd94fad8b60998ebd8b60.js"
 );
 
 self.addEventListener('message', (event) => {
