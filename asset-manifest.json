@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/myteam-pixelperfect/static/css/main.608f84d8.chunk.css",
-    "main.js": "/myteam-pixelperfect/static/js/main.af07e6dc.chunk.js",
-    "main.js.map": "/myteam-pixelperfect/static/js/main.af07e6dc.chunk.js.map",
+    "main.css": "/myteam-pixelperfect/static/css/main.af94ef46.chunk.css",
+    "main.js": "/myteam-pixelperfect/static/js/main.3ce72de6.chunk.js",
+    "main.js.map": "/myteam-pixelperfect/static/js/main.3ce72de6.chunk.js.map",
     "runtime-main.js": "/myteam-pixelperfect/static/js/runtime-main.6e3c862e.js",
     "runtime-main.js.map": "/myteam-pixelperfect/static/js/runtime-main.6e3c862e.js.map",
-    "static/js/2.1d468eb1.chunk.js": "/myteam-pixelperfect/static/js/2.1d468eb1.chunk.js",
-    "static/js/2.1d468eb1.chunk.js.map": "/myteam-pixelperfect/static/js/2.1d468eb1.chunk.js.map",
+    "static/js/2.96e9da98.chunk.js": "/myteam-pixelperfect/static/js/2.96e9da98.chunk.js",
+    "static/js/2.96e9da98.chunk.js.map": "/myteam-pixelperfect/static/js/2.96e9da98.chunk.js.map",
     "index.html": "/myteam-pixelperfect/index.html",
-    "precache-manifest.d91000886e63700b7f0acc35bf4fc65d.js": "/myteam-pixelperfect/precache-manifest.d91000886e63700b7f0acc35bf4fc65d.js",
+    "precache-manifest.5e6386a0e50be7b8e250a15ed4f5c110.js": "/myteam-pixelperfect/precache-manifest.5e6386a0e50be7b8e250a15ed4f5c110.js",
     "service-worker.js": "/myteam-pixelperfect/service-worker.js",
-    "static/css/main.608f84d8.chunk.css.map": "/myteam-pixelperfect/static/css/main.608f84d8.chunk.css.map",
-    "static/js/2.1d468eb1.chunk.js.LICENSE.txt": "/myteam-pixelperfect/static/js/2.1d468eb1.chunk.js.LICENSE.txt",
+    "static/css/main.af94ef46.chunk.css.map": "/myteam-pixelperfect/static/css/main.af94ef46.chunk.css.map",
+    "static/js/2.96e9da98.chunk.js.LICENSE.txt": "/myteam-pixelperfect/static/js/2.96e9da98.chunk.js.LICENSE.txt",
     "static/media/global.scss": "/myteam-pixelperfect/static/media/Livvic-SemiBold.fe84dbc6.ttf",
     "static/media/icon-facebook.svg": "/myteam-pixelperfect/static/media/icon-facebook.7febcff9.svg",
     "static/media/icon-hamburger.svg": "/myteam-pixelperfect/static/media/icon-hamburger.df4410ae.svg",
@@ -23,8 +23,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.6e3c862e.js",
-    "static/js/2.1d468eb1.chunk.js",
-    "static/css/main.608f84d8.chunk.css",
-    "static/js/main.af07e6dc.chunk.js"
+    "static/js/2.96e9da98.chunk.js",
+    "static/css/main.af94ef46.chunk.css",
+    "static/js/main.3ce72de6.chunk.js"
   ]
 }
