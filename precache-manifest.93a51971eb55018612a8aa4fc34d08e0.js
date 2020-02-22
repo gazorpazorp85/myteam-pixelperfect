@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "051f30cce907a1adf76200dcf94fc28a",
+    "revision": "2a4ed9110a0588c3acbd6bb3536b5cf8",
     "url": "/myteam-pixelperfect/index.html"
   },
   {
-    "revision": "81512a41587e58792433",
-    "url": "/myteam-pixelperfect/static/css/main.af94ef46.chunk.css"
+    "revision": "b1923d35942b096fbe1b",
+    "url": "/myteam-pixelperfect/static/css/main.38eda8eb.chunk.css"
   },
   {
-    "revision": "045f58b59e7894708d1d",
-    "url": "/myteam-pixelperfect/static/js/2.96e9da98.chunk.js"
+    "revision": "0f75f882820e16ca818e",
+    "url": "/myteam-pixelperfect/static/js/2.ce63e61c.chunk.js"
   },
   {
     "revision": "928d7b5eb39d16fe9a880722c974b51e",
-    "url": "/myteam-pixelperfect/static/js/2.96e9da98.chunk.js.LICENSE.txt"
+    "url": "/myteam-pixelperfect/static/js/2.ce63e61c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "81512a41587e58792433",
-    "url": "/myteam-pixelperfect/static/js/main.3ce72de6.chunk.js"
+    "revision": "b1923d35942b096fbe1b",
+    "url": "/myteam-pixelperfect/static/js/main.17e402f6.chunk.js"
   },
   {
     "revision": "0d33193dc7b4eed227fd",
@@ -60,11 +60,35 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/myteam-pixelperfect/static/media/logo.22c2459e.svg"
   },
   {
+    "revision": "d269357828b2531955dbf2fed2ee1c64",
+    "url": "/myteam-pixelperfect/static/media/oval-aden.d2693578.png"
+  },
+  {
     "revision": "fc4d3b2439e88c45670a3cad24310fd4",
     "url": "/myteam-pixelperfect/static/media/oval-arthur.fc4d3b24.png"
   },
   {
+    "revision": "ebf129f22d896557a4083f65bbe18f57",
+    "url": "/myteam-pixelperfect/static/media/oval-cristian.ebf129f2.png"
+  },
+  {
+    "revision": "f5be63b0072a80e5f1c50bd1dd588781",
+    "url": "/myteam-pixelperfect/static/media/oval-cruz.f5be63b0.png"
+  },
+  {
+    "revision": "5fd8ffb49d8b610b09cddac30d28bbad",
+    "url": "/myteam-pixelperfect/static/media/oval-drake.5fd8ffb4.png"
+  },
+  {
+    "revision": "aa1e09fa65026627155bb8214bd9dad7",
+    "url": "/myteam-pixelperfect/static/media/oval-griffin.aa1e09fa.png"
+  },
+  {
     "revision": "95b2112a021187996205069fadab6560",
     "url": "/myteam-pixelperfect/static/media/oval-kady.95b2112a.png"
+  },
+  {
+    "revision": "b4a886832a5a2dc6efb98d9dd40d3e54",
+    "url": "/myteam-pixelperfect/static/media/oval-nikita.b4a88683.png"
   }
 ]);
