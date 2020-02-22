@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/myteam-pixelperfect/static/css/main.38eda8eb.chunk.css",
-    "main.js": "/myteam-pixelperfect/static/js/main.06de5136.chunk.js",
-    "main.js.map": "/myteam-pixelperfect/static/js/main.06de5136.chunk.js.map",
+    "main.js": "/myteam-pixelperfect/static/js/main.17e402f6.chunk.js",
+    "main.js.map": "/myteam-pixelperfect/static/js/main.17e402f6.chunk.js.map",
     "runtime-main.js": "/myteam-pixelperfect/static/js/runtime-main.6e3c862e.js",
     "runtime-main.js.map": "/myteam-pixelperfect/static/js/runtime-main.6e3c862e.js.map",
     "static/js/2.ce63e61c.chunk.js": "/myteam-pixelperfect/static/js/2.ce63e61c.chunk.js",
     "static/js/2.ce63e61c.chunk.js.map": "/myteam-pixelperfect/static/js/2.ce63e61c.chunk.js.map",
     "index.html": "/myteam-pixelperfect/index.html",
-    "precache-manifest.3165066a99e749ae2d2a2079f59498bb.js": "/myteam-pixelperfect/precache-manifest.3165066a99e749ae2d2a2079f59498bb.js",
+    "precache-manifest.93a51971eb55018612a8aa4fc34d08e0.js": "/myteam-pixelperfect/precache-manifest.93a51971eb55018612a8aa4fc34d08e0.js",
     "service-worker.js": "/myteam-pixelperfect/service-worker.js",
     "static/css/main.38eda8eb.chunk.css.map": "/myteam-pixelperfect/static/css/main.38eda8eb.chunk.css.map",
     "static/js/2.ce63e61c.chunk.js.LICENSE.txt": "/myteam-pixelperfect/static/js/2.ce63e61c.chunk.js.LICENSE.txt",
@@ -31,6 +31,6 @@
     "static/js/runtime-main.6e3c862e.js",
     "static/js/2.ce63e61c.chunk.js",
     "static/css/main.38eda8eb.chunk.css",
-    "static/js/main.06de5136.chunk.js"
+    "static/js/main.17e402f6.chunk.js"
   ]
 }
