@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "943485d58a9865f20ec57156fa63d3d0",
+    "revision": "cfc13b7b7b118e8abcd5a80c06ff90ea",
     "url": "/myteam-pixelperfect/index.html"
   },
   {
-    "revision": "61828224e16ba4c9bb26",
-    "url": "/myteam-pixelperfect/static/css/main.39e18741.chunk.css"
+    "revision": "3fe83264d6c0380cb65f",
+    "url": "/myteam-pixelperfect/static/css/main.6b58ea8e.chunk.css"
   },
   {
-    "revision": "0f75f882820e16ca818e",
-    "url": "/myteam-pixelperfect/static/js/2.ce63e61c.chunk.js"
+    "revision": "48034aae8cd709f46a3f",
+    "url": "/myteam-pixelperfect/static/js/2.3538e8d0.chunk.js"
   },
   {
     "revision": "928d7b5eb39d16fe9a880722c974b51e",
-    "url": "/myteam-pixelperfect/static/js/2.ce63e61c.chunk.js.LICENSE.txt"
+    "url": "/myteam-pixelperfect/static/js/2.3538e8d0.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "61828224e16ba4c9bb26",
-    "url": "/myteam-pixelperfect/static/js/main.17e402f6.chunk.js"
+    "revision": "3fe83264d6c0380cb65f",
+    "url": "/myteam-pixelperfect/static/js/main.3d51efae.chunk.js"
   },
   {
     "revision": "0d33193dc7b4eed227fd",
