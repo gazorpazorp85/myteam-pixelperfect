@@ -1,0 +1,144 @@
+.footer {
+  background-color: $clr2;
+  height: 196px;
+}
+
+.footer-subcontainer {
+  padding-top: 48px;
+}
+
+.footer-menu {
+  height: 100%;
+  width: 160px;
+  margin-right: 125px;
+}
+
+.footer-logo-container {
+  height: 40px;
+  margin-bottom: 25px;
+}
+
+.footer-menu-buttons div:first-child {
+  margin-right: 43px;
+}
+
+.address-container {
+  width: 445px;
+  height: 94px;
+  font-size: rem(15px);
+  line-height: 25px;
+  opacity: 0.6;
+  margin-right: 125px;
+}
+
+.icons-copyright-container {
+  flex-direction: column;
+}
+
+.social-container {
+  align-self: flex-end;
+}
+
+.social-container div:not(:last-child) {
+  margin-right: 16px;
+}
+
+.icon-container {
+  height: 24px;
+  width: 24px;
+  margin-bottom: 51px;
+}
+
+.icon path:hover {
+  fill: $clr4;
+}
+
+.copyright-container {
+  width: 255px;
+  height: 25px;
+  opacity: 0.6;
+  font-family: "livvic-semi";
+  font-size: 15px;
+  line-height: 25px;
+}
+
+@include for-tablet-layout {
+  .footer {
+    height: 271px;
+  }
+
+  .footer-subcontainer {
+    flex-direction: column;
+  }
+
+  .logo-address-container {
+    justify-content: space-between;
+    margin-bottom: 35px;
+  }
+
+  .address-container {
+    margin-right: 0;
+    text-align: end;
+  }
+
+  .icons-copyright-container {
+    flex-direction: row;
+    justify-content: space-between;
+  }
+}
+
+@include for-mobile-layout {
+  .footer {
+    height: 432px;
+    font-size: rem(15px);
+  }
+
+  .footer-subcontainer {
+    flex-direction: column;
+    align-items: center;
+    padding-top: 66px;
+  }
+
+  .logo-address-container {
+    flex-direction: column;
+    margin-bottom: 0;
+  }
+
+  .footer-menu {
+    margin-right: 0;
+    align-items: center;
+  }
+
+  .footer-logo-container {
+    margin-bottom: 24px;
+    height: 24px;
+
+    img {
+      height: 100%;
+    }
+  }
+
+  .footer-menu-buttons div:first-child {
+    margin-right: 27px;
+  }
+
+  .address-container {
+    width: 100%;
+    text-align: center;
+    margin-top: 24px;
+    // margin-right: 0;
+    margin-bottom: 46px;
+  }
+
+  .icons-copyright-container {
+    flex-direction: column;
+  }
+
+  .social-container {
+    align-self: center;
+  }
+
+  .icon-container {
+    margin-bottom: 16px;
+  }
+}

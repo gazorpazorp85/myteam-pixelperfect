@@ -1,0 +1,153 @@
+.testimonials {
+  background-color: $clr1;
+  height: 745px;
+  width: 100%;
+  background-image: url(../../../assets/imgs/testimonials-top-left.png),
+                    url(../../../assets/imgs/testimonials-bottom-right.png);
+  background-position: left top, right bottom;
+  background-repeat: no-repeat, no-repeat;
+}
+
+.top-left-img-container {
+  position: absolute;
+  width: 147px;
+  height: 100px;
+}
+
+.testimonials-title {
+  margin-top: 140px;
+  text-align: center;
+  align-self: center;
+  margin-bottom: 63px;
+}
+
+.text-emphasis {
+  color: #79c8c7;
+}
+
+.card-container:not(:last-child) {
+  margin-right: 30px;
+}
+
+.card-container {
+  max-width: 350px;
+}
+
+.card-subcontainer {
+  position: relative;
+  top: -21px;
+}
+
+.quotes-img-container {
+  width: 67px;
+  height: 56px;
+}
+
+.card-text {
+  width: 100%;
+  height: 97px;
+  font-size: rem(15px);
+  line-height: 25px;
+  text-align: center;
+  margin-bottom: 27px;
+}
+
+.card-person-name {
+  width: 100%;
+  height: 28px;
+  color: $clr3;
+  font-family: "livvic-bold";
+  font-size: 18px;
+  text-align: center;
+  margin-bottom: 2px;
+}
+
+.card-person-job-title {
+  width: 100%;
+  height: 18px;
+  font-family: "livvic-med-ita";
+  font-size: rem(13px);
+  line-height: 18px;
+  text-align: center;
+  margin-bottom: 32px;
+}
+
+.card-person-img-container {
+  height: 62px;
+  width: 62px;
+}
+
+.bottom-right-img-container {
+  position: absolute;
+  right: 0;
+  height: 100px;
+  width: 200px;
+  align-self: flex-end;
+}
+
+@include for-tablet-layout {
+  .testimonials {
+    height: 1199px;
+  }
+
+  .testimonials-title {
+    margin-top: 100px;
+    width: 461px;
+    margin-bottom: 52px;
+  }
+
+  .cards-container {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .card-container {
+    max-width: 573px;
+    max-height: 253px;
+    margin-bottom: 48px;
+  }
+
+  .card-container:not(:last-child) {
+    margin-right: 0;
+  }
+
+  .card-text {
+    width: 100%;
+    height: 47px;
+    font-size: rem(14.1px);
+    margin-bottom: 44px;
+  }
+
+  .card-person-job-title {
+    margin-bottom: 16px;
+  }
+
+}
+
+@include for-mobile-layout {
+  .testimonials {
+    height: 1410px;
+  }
+
+  .testimonials-title {
+    margin-top: 140px;
+    width: 100%;
+    height: 124px;
+    margin-bottom: 52px;
+  }
+
+  .cards-container {
+    flex-wrap: wrap;
+  }
+
+  .card-container {
+    max-width: 100%;
+    max-height: 278px;
+  }
+
+  .card-text {
+    height: 97px;
+    font-size: rem(16px);
+    margin-bottom: 19px;
+  }
+}

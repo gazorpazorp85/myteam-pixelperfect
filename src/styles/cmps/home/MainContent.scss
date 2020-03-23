@@ -1,0 +1,134 @@
+.main-content {
+  background-color: $clr2;
+  height: 700px;
+  width: 100%;
+  background-image: url(../../../assets/imgs/main-content-right-bottom.png);
+  background-position: right bottom;
+  background-repeat: no-repeat;
+}
+
+.main-content-rectangle {
+  margin-top: 140px;
+  margin-bottom: 54px;
+}
+
+.main-content-title {
+  width: 445px;
+  height: 137px;
+  margin-right: 132px;
+}
+
+.description-container:not(:last-child) {
+  margin-bottom: 35px;
+}
+
+.main-content-icon-container {
+  margin-right: 23px;
+}
+
+.description-text-container {
+  width: 445px;
+}
+
+.main-content-description-title {
+  height: 28px;
+  color: $clr4;
+  margin-bottom: 16px;
+}
+
+.main-content-description-text {
+  height: 47px;
+  opacity: 0.8;
+  font-size: rem(14px);
+  line-height: 25px;
+}
+
+.main-bottom-right-container {
+  position: absolute;
+  right: 0;
+  height: 244px;
+  width: 100px;
+  align-self: flex-end;
+}
+
+@include for-tablet-layout {
+  .main-content {
+    height: 710px;
+    background-position: right top;
+  }
+
+  .main-content-container {
+    flex-direction: column;
+  }
+
+  .main-content-rectangle {
+    height: 4px;
+    margin-top: 100px;
+    margin-bottom: 32px;
+  }
+
+  .main-content-title {
+    width: 498px;
+    height: 60px;
+    margin-right: 0;
+    margin-bottom: 68px;
+  }
+
+  .description-text-container {
+    width: 478px;
+  }
+
+  .main-content-description-text {
+    font-size: rem(14.2px);
+  }
+
+  .main-bottom-right-container {
+    align-self: flex-start;
+  }
+}
+
+@include for-mobile-layout {
+  .main-content {
+    height: 1073px;
+  }
+
+  .main-content-rectangle {
+    margin-top: 64px;
+  }
+
+  .main-content-title {
+    width: 253px;
+    height: 124px;
+    margin-right: 0;
+    margin-bottom: 92px;
+  }
+
+  .description-container {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .description-container:not(:last-child) {
+    margin-bottom: 51px;
+  }
+
+  .main-content-icon-container {
+    margin-right: 0;
+    margin-bottom: 16px;
+  }
+
+  .description-text-container {
+    width: 100%;
+    align-items: center;
+  }
+
+  .main-content-description-title {
+    margin-bottom: 8px;
+  }
+
+  .main-content-description-text {
+    height: 72px;
+    font-size: rem(16px);
+    text-align: center;
+  }
+}

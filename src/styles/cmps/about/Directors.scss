@@ -1,0 +1,127 @@
+.directors {
+  height: 1002px;
+  background-color: #004047;
+  background-image: url(../../../assets/imgs/about-directors-contact-form-bg-top.png),
+                    url(../../../assets/imgs/about-directors-bg-bottom.png);
+  background-position: left top, right bottom;
+  background-repeat: no-repeat, no-repeat;
+}
+
+.directors-subcontainer {
+  align-items: center;
+}
+
+.directors-title-container {
+  width: 920px;
+  text-align: center;
+  margin-top: 140px;
+  margin-bottom: 64px;
+}
+
+.directors-cards-container {
+  width: 100%;
+  flex-wrap: wrap;
+}
+
+.directors-card {
+  width: 350px;
+  height: 253px;
+  background-color: $clr2;
+  align-items: center;
+  margin-right: 30px;
+  margin-bottom: 76px;
+}
+
+.directors-card:nth-child(3n + 0) {
+  margin-right: 0px;
+}
+
+.directors-img-container {
+  margin-top: 32px;
+  margin-bottom: 16px;
+  height: 96px;
+  width: 96px;
+
+  img {
+    height: 100%;
+    width: 100%;
+  }
+}
+
+.directors-name {
+  //   width: 302px;
+  //   height: 28px;
+  color: $clr3;
+  //   line-height: 28px;
+  text-align: center;
+}
+
+.directors-job-title {
+  //   width: 302px;
+  //   height: 25px;
+  font-family: "livvic-med-ita";
+  font-size: rem(15px);
+  line-height: 25px;
+  text-align: center;
+}
+
+.directors-button {
+  position: relative;
+  width: 56px;
+  height: 56px;
+  background-color: $clr4;
+  border-radius: 50%;
+  bottom: -27px;
+}
+
+@include for-tablet-layout {
+  .directors {
+    height: 1219px;
+  }
+
+  .directors-title-container {
+    width: 445px;
+    margin-top: 100px;
+    margin-bottom: 48px;
+  }
+
+  .directors-cards-container {
+    justify-content: center;
+  }
+
+  .directors-card {
+    width: 281px;
+    align-items: center;
+  }
+
+  .directors-card:nth-child(even) {
+    margin-right: 0;
+  }
+
+  .directors-card:nth-child(odd) {
+    margin-right: 11px;
+  }
+}
+
+@include for-mobile-layout {
+  .directors {
+    height: 2062px;
+    background-image: url(../../../assets/imgs/about-directors-bg-top-mobile.png),
+                      url(../../../assets/imgs/about-directors-bg-bottom.png);
+  }
+
+  .directors-title-container {
+    width: 327px;
+    text-align: center;
+    margin-top: 88px;
+  }
+
+  .directors-card {
+    width: 327px;
+    margin-bottom: 52px;
+  }
+
+  .directors-card:nth-child(odd) {
+    margin-right: 0;
+  }
+}

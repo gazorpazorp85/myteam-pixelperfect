@@ -1,0 +1,140 @@
+.clients {
+  height: 437px;
+  background-color: $clr2;
+  background-image: url(../../../assets/imgs/clients-desktop.png);
+  background-position: left top;
+  background-repeat: no-repeat;
+}
+
+.clients-container {
+  padding-top: 140px;
+  align-items: center;
+}
+
+.clients-title-container {
+  width: 920px;
+  text-align: center;
+  padding-bottom: 64px;
+}
+
+.clients-logo-container {
+  height: 45px;
+  display: flex;
+  align-items: center;
+}
+
+.clients-logo-container img:nth-child(odd) {
+  margin-right: 79px;
+}
+
+.clients-logo-container img:nth-child(even) {
+  margin-right: 78px;
+}
+
+.clients-logo-container img:nth-child(5) {
+  margin-right: 0;
+}
+
+@include for-tablet-layout {
+  .clients {
+    background-image: url(../../../assets/imgs/clients-tablet.png);
+    height: 308px;
+  }
+
+  .clients-container {
+    padding-top: 100px;
+  }
+
+  .clients-title-container {
+    width: 457px;
+    padding-bottom: 48px;
+  }
+
+  .clients-logo-container {
+    height: 28px;
+  }
+
+  .clients-logo-container img:nth-child(n) {
+    margin-right: 49px;
+  }
+
+  .clients-logo-container img:nth-child(5) {
+    margin-right: 0;
+  }
+  
+  .verge-icon {
+    width: 103px;
+    height: 17px;
+  }
+
+  .jakarta-icon {
+    width: 114px;
+    height: 14px;
+  }
+
+  .guardian-icon {
+    width: 112px;
+    height: 17px;
+  }
+
+  .tech-icon {
+    width: 103px;
+    height: 17px;
+  }
+
+  .gadget-icon {
+    width: 61px;
+    height: 28px;
+  }
+
+}
+
+@include for-mobile-layout {
+
+  .clients {
+    background-image: url(../../../assets/imgs/clients-mobile.png);
+    height: 632px;
+  }
+
+  .clients-container {
+    padding-top: 88px;
+  }
+
+  .clients-title-container {
+    padding-bottom: 64px;
+  }
+
+  .clients-logo-container {
+    flex-direction: column;
+  }
+
+  .clients-logo-container img:nth-child(n) {
+    margin-right: 0;
+    margin-bottom: 56px;
+  }
+  
+  .verge-icon {
+    width: 147px;
+    height: 25px;
+  }
+
+  .jakarta-icon {
+    width: 163px;
+    height: 20px;
+  }
+
+  .guardian-icon {
+    width: 160px;
+    height: 26px;
+  }
+
+  .tech-icon {
+    width: 147px;
+    height: 25px;
+  }
+
+  .gadget-icon {
+    width: 87px;
+    height: 40px;
+  }
+}
