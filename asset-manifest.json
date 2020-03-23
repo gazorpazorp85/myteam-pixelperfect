@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/myteam-pixelperfect/static/css/main.6b58ea8e.chunk.css",
-    "main.js": "/myteam-pixelperfect/static/js/main.3d51efae.chunk.js",
-    "main.js.map": "/myteam-pixelperfect/static/js/main.3d51efae.chunk.js.map",
+    "main.css": "/myteam-pixelperfect/static/css/main.4205df92.chunk.css",
+    "main.js": "/myteam-pixelperfect/static/js/main.cf15a19c.chunk.js",
+    "main.js.map": "/myteam-pixelperfect/static/js/main.cf15a19c.chunk.js.map",
     "runtime-main.js": "/myteam-pixelperfect/static/js/runtime-main.6e3c862e.js",
     "runtime-main.js.map": "/myteam-pixelperfect/static/js/runtime-main.6e3c862e.js.map",
-    "static/js/2.3538e8d0.chunk.js": "/myteam-pixelperfect/static/js/2.3538e8d0.chunk.js",
-    "static/js/2.3538e8d0.chunk.js.map": "/myteam-pixelperfect/static/js/2.3538e8d0.chunk.js.map",
+    "static/js/2.375977aa.chunk.js": "/myteam-pixelperfect/static/js/2.375977aa.chunk.js",
+    "static/js/2.375977aa.chunk.js.map": "/myteam-pixelperfect/static/js/2.375977aa.chunk.js.map",
     "index.html": "/myteam-pixelperfect/index.html",
-    "precache-manifest.b0421f4123ba8fe0f6e5d033a105b026.js": "/myteam-pixelperfect/precache-manifest.b0421f4123ba8fe0f6e5d033a105b026.js",
+    "precache-manifest.373045244f7726ff3158bf01fea74202.js": "/myteam-pixelperfect/precache-manifest.373045244f7726ff3158bf01fea74202.js",
     "service-worker.js": "/myteam-pixelperfect/service-worker.js",
-    "static/css/main.6b58ea8e.chunk.css.map": "/myteam-pixelperfect/static/css/main.6b58ea8e.chunk.css.map",
-    "static/js/2.3538e8d0.chunk.js.LICENSE.txt": "/myteam-pixelperfect/static/js/2.3538e8d0.chunk.js.LICENSE.txt",
+    "static/css/main.4205df92.chunk.css.map": "/myteam-pixelperfect/static/css/main.4205df92.chunk.css.map",
+    "static/js/2.375977aa.chunk.js.LICENSE.txt": "/myteam-pixelperfect/static/js/2.375977aa.chunk.js.LICENSE.txt",
     "static/media/global.scss": "/myteam-pixelperfect/static/media/Livvic-SemiBold.fe84dbc6.ttf",
-    "static/media/icon-facebook.svg": "/myteam-pixelperfect/static/media/icon-facebook.7febcff9.svg",
+    "static/media/icon-facebook.7febcff9.svg": "/myteam-pixelperfect/static/media/icon-facebook.7febcff9.svg",
     "static/media/icon-hamburger.svg": "/myteam-pixelperfect/static/media/icon-hamburger.df4410ae.svg",
-    "static/media/icon-pinterest.svg": "/myteam-pixelperfect/static/media/icon-pinterest.c557c3d4.svg",
-    "static/media/icon-twitter.svg": "/myteam-pixelperfect/static/media/icon-twitter.cb4fea0b.svg",
+    "static/media/icon-pinterest.c557c3d4.svg": "/myteam-pixelperfect/static/media/icon-pinterest.c557c3d4.svg",
+    "static/media/icon-twitter.cb4fea0b.svg": "/myteam-pixelperfect/static/media/icon-twitter.cb4fea0b.svg",
     "static/media/logo.svg": "/myteam-pixelperfect/static/media/logo.22c2459e.svg",
     "static/media/oval-aden.png": "/myteam-pixelperfect/static/media/oval-aden.d2693578.png",
     "static/media/oval-arthur.png": "/myteam-pixelperfect/static/media/oval-arthur.fc4d3b24.png",
@@ -29,8 +29,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.6e3c862e.js",
-    "static/js/2.3538e8d0.chunk.js",
-    "static/css/main.6b58ea8e.chunk.css",
-    "static/js/main.3d51efae.chunk.js"
+    "static/js/2.375977aa.chunk.js",
+    "static/css/main.4205df92.chunk.css",
+    "static/js/main.cf15a19c.chunk.js"
   ]
 }
